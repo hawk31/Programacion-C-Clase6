@@ -1,0 +1,20 @@
+{
+"tarea_1":
+	{
+		"nombre_tarea" : "Mixturas MCMC",
+		"desc_tarea" : "Ahora en C!",
+		"id" : 0,
+		"usuario" : "Jose",
+		"prioridad" : 2
+	},
+
+"tarea_2":
+	{
+		"nombre_tarea" : "Machine Learning",
+		"desc_tarea" : "En Python",
+		"id" : 1,
+		"usuario" : "Pepe",
+		"prioridad" : 0
+	}
+
+}
